@@ -1,0 +1,504 @@
+{
+    "version": "0.4",
+    "title": "Contact Us",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "73432e8",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "22",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/rockboystudio.com\/ochiz\/wp-content\/uploads\/sites\/11\/2021\/12\/capturing-each-moment.jpg",
+                    "id": 24,
+                    "alt": "Capturing Each Moment",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#161D1E6B",
+                "background_overlay_color_b": "#161D1E",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 88,
+                    "sizes": []
+                },
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 0,
+                    "sizes": []
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color_b": "globals\/colors?id=c655ff4",
+                    "background_overlay_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "634a0ceb",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "41ecf928",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": 688,
+                                    "sizes": []
+                                },
+                                "gap": "no"
+                            },
+                            "elements": [
+                                {
+                                    "id": "11815db2",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "74b44af5",
+                                            "settings": {
+                                                "title": "Contact Us",
+                                                "header_size": "h1",
+                                                "align": "center",
+                                                "typography_typography": "custom",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 32,
+                                                    "sizes": []
+                                                },
+                                                "typography_line_height_mobile": {
+                                                    "unit": "px",
+                                                    "size": 48,
+                                                    "sizes": []
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "animation_duration": "fast"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "26bfa3f0",
+                                            "settings": {
+                                                "editor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.",
+                                                "align": "center",
+                                                "_animation": "fadeInDown",
+                                                "animation_duration": "fast",
+                                                "_animation_delay": 50
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "39379ede",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "3e3c543d",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "80",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "640c5f5",
+                            "settings": {
+                                "title": "Get in Touch",
+                                "typography_typography": "custom",
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInDown",
+                                "animation_duration": "fast"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "16493ff1",
+                            "settings": {
+                                "editor": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                                "_animation": "fadeInDown",
+                                "animation_duration": "fast",
+                                "_animation_delay": 50
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5b7dcbbd",
+                            "settings": {
+                                "eael_feature_list": [
+                                    {
+                                        "eael_feature_list_icon_new": {
+                                            "value": "fas fa-envelope",
+                                            "library": "fa-solid"
+                                        },
+                                        "eael_feature_list_title": "ochiz@email.com",
+                                        "eael_feature_list_content": "Email",
+                                        "_id": "fb9a2c5"
+                                    },
+                                    {
+                                        "eael_feature_list_icon_new": {
+                                            "value": "fas fa-phone-alt",
+                                            "library": "fa-solid"
+                                        },
+                                        "eael_feature_list_title": "+62 898 7878 6767",
+                                        "eael_feature_list_content": "Phone Number",
+                                        "_id": "859f098"
+                                    },
+                                    {
+                                        "eael_feature_list_icon_new": {
+                                            "value": "fas fa-map-marker-alt",
+                                            "library": "fa-solid"
+                                        },
+                                        "eael_feature_list_title": "Yogyakarta Street 246, Central Java, Indonesia",
+                                        "eael_feature_list_content": "Office",
+                                        "_id": "152389c"
+                                    }
+                                ],
+                                "eael_feature_list_connector": "",
+                                "eael_feature_list_space_between": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "eael_feature_list_icon_background_background": "classic",
+                                "eael_feature_list_icon_circle_size": {
+                                    "unit": "px",
+                                    "size": 48,
+                                    "sizes": []
+                                },
+                                "eael_feature_list_icon_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "eael_feature_list_icon_padding": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                },
+                                "eael_feature_list_icon_space": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "eael_feature_list_title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "eael_feature_list_icon_background_color": "globals\/colors?id=primary",
+                                    "eael_feature_list_title_color": "globals\/colors?id=dc170d1",
+                                    "eael_feature_list_description_color": "globals\/colors?id=accent",
+                                    "eael_feature_list_connector_color": "globals\/colors?id=accent",
+                                    "eael_feature_list_icon_color": "globals\/colors?id=secondary"
+                                },
+                                "eael_feature_list_title_typography_typography": "custom",
+                                "eael_feature_list_title_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 24,
+                                    "sizes": []
+                                },
+                                "eael_feature_list_title_typography_line_height_mobile": {
+                                    "unit": "px",
+                                    "size": 32,
+                                    "sizes": []
+                                },
+                                "_animation": "fadeInUp",
+                                "animation_duration": "fast",
+                                "_animation_delay": 100
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "eael-feature-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "49c6b032",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "background_slideshow_gallery": [
+                            {
+                                "id": 27,
+                                "url": "https:\/\/rockboystudio.com\/ochiz\/wp-content\/uploads\/sites\/11\/2021\/12\/adventurous-man-is-taking-in-the-moment-on-top-of-a-mountain.jpg"
+                            },
+                            {
+                                "id": 26,
+                                "url": "https:\/\/rockboystudio.com\/ochiz\/wp-content\/uploads\/sites\/11\/2021\/12\/man-and-woman-having-a-romantic-moment-by-waterside.jpg"
+                            },
+                            {
+                                "id": 28,
+                                "url": "https:\/\/rockboystudio.com\/ochiz\/wp-content\/uploads\/sites\/11\/2021\/12\/afro-american-people-discussing-working-moments-on-street.jpg"
+                            }
+                        ],
+                        "background_slideshow_slide_duration": 2000,
+                        "background_slideshow_ken_burns": "yes",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        },
+                        "border_radius_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInUp",
+                        "animation_duration": "fast",
+                        "animation_delay": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "2ca819bb",
+                            "settings": {
+                                "mf_form_id": "56***1640161685981",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-10",
+                                    "right": "-10",
+                                    "bottom": "-10",
+                                    "left": "-10",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "metform",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "a9ee76d",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "30",
+                    "right": "0",
+                    "bottom": "30",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5caa1985",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_slideshow_gallery": [
+                            {
+                                "id": 27,
+                                "url": "https:\/\/rockboystudio.com\/ochiz\/wp-content\/uploads\/sites\/11\/2021\/12\/adventurous-man-is-taking-in-the-moment-on-top-of-a-mountain.jpg"
+                            },
+                            {
+                                "id": 26,
+                                "url": "https:\/\/rockboystudio.com\/ochiz\/wp-content\/uploads\/sites\/11\/2021\/12\/man-and-woman-having-a-romantic-moment-by-waterside.jpg"
+                            },
+                            {
+                                "id": 28,
+                                "url": "https:\/\/rockboystudio.com\/ochiz\/wp-content\/uploads\/sites\/11\/2021\/12\/afro-american-people-discussing-working-moments-on-street.jpg"
+                            }
+                        ],
+                        "background_slideshow_slide_duration": 2000,
+                        "background_slideshow_ken_burns": "yes",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "16",
+                            "right": "16",
+                            "bottom": "16",
+                            "left": "16",
+                            "isLinked": true
+                        },
+                        "border_radius_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "animation": "fadeInUp",
+                        "animation_duration": "fast",
+                        "animation_delay": 50
+                    },
+                    "elements": [
+                        {
+                            "id": "427caf6c",
+                            "settings": {
+                                "address": "London Eye, London, United Kingdom",
+                                "height": {
+                                    "unit": "px",
+                                    "size": 480,
+                                    "sizes": []
+                                },
+                                "css_filters_css_filter": "custom",
+                                "css_filters_saturate": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "css_filters_hover_css_filter": "custom",
+                                "hover_transition": {
+                                    "unit": "px",
+                                    "size": 0.5,
+                                    "sizes": []
+                                },
+                                "_border_radius": {
+                                    "unit": "px",
+                                    "top": "16",
+                                    "right": "16",
+                                    "bottom": "16",
+                                    "left": "16",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "google_maps",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents"
+    }
+}
